@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou a Mariana
-- 🌱 Atualmente estou estudando HTML5, CSS3, Javascrip e Node.js
+- 🌱 Atualmente estou estudando HTML5, CSS3, Javascript e Node.js
 
 
 <!---
